@@ -1,0 +1,35 @@
+{
+    "name": "Cornell University",
+    "children": [{
+        "name": "College of Agriculture",
+        "children": [{
+            "name": "Plant Biology",
+            "children": [{
+                "name": "PL BIOL",
+                "size": 3812
+            }, {
+                "name": "PLANT BIO",
+                "size": 6714
+            }, {
+                "name": "MOL BIOL",
+                "size": 743
+            }]
+        }, {
+            "name": "College of Arts and Sciences",
+            "children": [{
+                "name": "Architecture",
+                "size": 3534
+            }, {
+                "name": "Computer Science",
+                "size": 3416
+            }]
+        }, {
+            "name": "College of Engineering",
+            "children": [{
+                "name": "Physics",
+                "size": 7074
+            }]
+        }]
+    }]
+ }
+ 

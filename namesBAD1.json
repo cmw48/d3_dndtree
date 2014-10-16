@@ -1,0 +1,34 @@
+{
+    "name": "test",
+    "children": [{
+        "name": "George",
+        "children": [{
+            "name": "Mark",
+            "size": 3416            
+            "children": [{
+                "name": "Sam",
+                "size": 3416
+            }]
+        }, {
+            "name": "Larry",
+            "size": 3416
+        }]
+    }, {
+        "name": "David",
+        "size": 3416
+        "children": [{
+            "name": "Lucy",
+            "size": 3534
+        }, {
+            "name": "Gretchen",
+            "size": 3416
+        }]
+    }, {
+        "name": "Jarvis",
+        "size": 3416
+        "children": [{
+            "name": "Mary",
+            "size": 7074
+        }]
+    }]
+}
